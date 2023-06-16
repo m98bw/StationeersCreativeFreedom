@@ -1,5 +1,4 @@
-All the rest of this readme is Kastuk's original work.
- this is a combo of Kastuk's, Beef's and my work
+This is a combo of Kastuk's, Beef's and my work
  # Stationeers-Creative-Freedom
 Break the limits of creativity!
 
